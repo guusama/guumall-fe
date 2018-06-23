@@ -1,0 +1,14 @@
+[user]
+	name=guusama
+	email=1315874351@qq.com
+[alias]
+	co=checkout
+	ci=commit
+	st=status
+	pl=pull
+	ps=push
+	dt=difftool
+	ca=commit -am
+	b=branch
+[push]
+	default=simple
